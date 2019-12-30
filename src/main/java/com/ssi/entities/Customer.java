@@ -55,6 +55,11 @@ public class Customer {
 	public void setMobile(String mobile) {
 		this.mobile = mobile;
 	}
+	public void setMobile(String mobile) {
+		this.mobile = mobile;
+	}
+	
+	
 	
 	
 	
